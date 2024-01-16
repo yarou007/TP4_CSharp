@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TP4_Banque/1.0.0": {
+        "runtime": {
+          "TP4_Banque.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP4_Banque/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

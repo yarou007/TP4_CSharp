@@ -1,0 +1,14 @@
+C:\Users\21655\source\repos\TP4_Banque\TP4_Banque\bin\Debug\net8.0\TP4_Banque.exe
+C:\Users\21655\source\repos\TP4_Banque\TP4_Banque\bin\Debug\net8.0\TP4_Banque.deps.json
+C:\Users\21655\source\repos\TP4_Banque\TP4_Banque\bin\Debug\net8.0\TP4_Banque.runtimeconfig.json
+C:\Users\21655\source\repos\TP4_Banque\TP4_Banque\bin\Debug\net8.0\TP4_Banque.dll
+C:\Users\21655\source\repos\TP4_Banque\TP4_Banque\bin\Debug\net8.0\TP4_Banque.pdb
+C:\Users\21655\source\repos\TP4_Banque\TP4_Banque\obj\Debug\net8.0\TP4_Banque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21655\source\repos\TP4_Banque\TP4_Banque\obj\Debug\net8.0\TP4_Banque.AssemblyInfoInputs.cache
+C:\Users\21655\source\repos\TP4_Banque\TP4_Banque\obj\Debug\net8.0\TP4_Banque.AssemblyInfo.cs
+C:\Users\21655\source\repos\TP4_Banque\TP4_Banque\obj\Debug\net8.0\TP4_Banque.csproj.CoreCompileInputs.cache
+C:\Users\21655\source\repos\TP4_Banque\TP4_Banque\obj\Debug\net8.0\TP4_Banque.dll
+C:\Users\21655\source\repos\TP4_Banque\TP4_Banque\obj\Debug\net8.0\refint\TP4_Banque.dll
+C:\Users\21655\source\repos\TP4_Banque\TP4_Banque\obj\Debug\net8.0\TP4_Banque.pdb
+C:\Users\21655\source\repos\TP4_Banque\TP4_Banque\obj\Debug\net8.0\TP4_Banque.genruntimeconfig.cache
+C:\Users\21655\source\repos\TP4_Banque\TP4_Banque\obj\Debug\net8.0\ref\TP4_Banque.dll
